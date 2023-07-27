@@ -50,7 +50,7 @@ CQRS 패턴은 데이터를 추가 및 업데이트 작업인 명령 작업과 �
 Simple CQRS 는 단일 Data Store 에서 명령 모델과 쿼리 모델을 분리하는 방식입니다.  
 단순한 구조인 만큼 구현 및 적용이 편하지만, 성능 저하의 문제점을 개선하지 못합니다.  
 
-<a href="">Simple CQRS 예제</a>
+<a href="https://github.com/jeongwon201/cqrs/tree/main/seperated-model">Simple CQRS 예제</a>
 <br />
 <br />
 <br />
@@ -70,7 +70,7 @@ Polyglot 아키텍처를 활용하여 하나의 시스템에서 두 개의 Data 
 
 이전 방식보다 구현이 복잡하지만, 성능 저하의 문제점을 해결할 수 있습니다.  
 
-<a href="">CQRS with Separated Persistance Mechanisms 예제</a>
+<a href="https://github.com/jeongwon201/cqrs/tree/main/polyglot">CQRS with Separated Persistance Mechanisms 예제</a>
 <br />
 <br />
 <br />
