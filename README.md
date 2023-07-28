@@ -1,6 +1,9 @@
-# CQRS Pattern | Command Query Responsibility Segregation Pattern
+# CQRS Pattern
 
+<img align="right" src="https://github.com/jeongwon201/cqrs/assets/81132541/a116a17b-d522-48f1-9d88-6e974df29843" width="300px"/>
+<h3 align="left">CQRS 학습 및 실습 자료입니다.</h3>
 
+<br />
 <br />
 <br />
 
